@@ -1,0 +1,222 @@
+[
+  {
+    "id": "k-01",
+    "name": "น้องพลอย ชลบุรี",
+    "wish": "ขอให้ครอบครัวมีแต่ความสุข สุขภาพแข็งแรงตลอดปี",
+    "style": "lotus",
+    "primaryColor": "#ec4899",
+    "accentColor": "#fde047",
+    "votes": 42,
+    "position": { "x": -22, "z": -4.5 },
+    "createdAt": "2026-11-20T12:00:00.000Z"
+  },
+  {
+    "id": "k-02",
+    "name": "ต้นกล้า สายชิล",
+    "wish": "ขอให้การงานราบรื่น โปรเจกต์ผ่านฉลุยไร้บั๊ก",
+    "style": "banana-leaf",
+    "primaryColor": "#16a34a",
+    "accentColor": "#facc15",
+    "votes": 38,
+    "position": { "x": -15, "z": 3.2 },
+    "createdAt": "2026-11-20T12:02:00.000Z"
+  },
+  {
+    "id": "k-03",
+    "name": "มินตรา มณีรัตน์",
+    "wish": "ขอให้ความรักสดใส เหมือนแสงจันทร์วันเพ็ญ",
+    "style": "royal-gold",
+    "primaryColor": "#eab308",
+    "accentColor": "#a855f7",
+    "votes": 51,
+    "position": { "x": -8.5, "z": -3.0 },
+    "createdAt": "2026-11-20T12:05:00.000Z"
+  },
+  {
+    "id": "k-04",
+    "name": "ภูมิพัฒน์ เชียงใหม่",
+    "wish": "ลอยเคราะห์โศกโรคภัยออกไปกับสายน้ำ",
+    "style": "coconut",
+    "primaryColor": "#92400e",
+    "accentColor": "#fbbf24",
+    "votes": 27,
+    "position": { "x": -18.5, "z": 8.0 },
+    "createdAt": "2026-11-20T12:08:00.000Z"
+  },
+  {
+    "id": "k-05",
+    "name": "ใบเฟิร์น ศศิธร",
+    "wish": "ขอให้สอบติดคณะที่ตั้งใจ และเจอเพื่อนที่ดี",
+    "style": "bread",
+    "primaryColor": "#38bdf8",
+    "accentColor": "#f472b6",
+    "votes": 33,
+    "position": { "x": -2.5, "z": 5.5 },
+    "createdAt": "2026-11-20T12:10:00.000Z"
+  },
+  {
+    "id": "k-06",
+    "name": "คุณป้าสมศรี",
+    "wish": "ขอให้ลูกหลานอยู่ดีมีสุข ร่ำรวยเงินทอง",
+    "style": "banana-leaf",
+    "primaryColor": "#15803d",
+    "accentColor": "#fb923c",
+    "votes": 45,
+    "position": { "x": 4.2, "z": -1.8 },
+    "createdAt": "2026-11-20T12:12:00.000Z"
+  },
+  {
+    "id": "k-07",
+    "name": "เจมส์ ธนกฤต",
+    "wish": "ขอให้มีพลังกายพลังใจสู้ทุกเป้าหมายในปีหน้า",
+    "style": "lotus",
+    "primaryColor": "#f43f5e",
+    "accentColor": "#fef08a",
+    "votes": 19,
+    "position": { "x": 10.5, "z": 4.8 },
+    "createdAt": "2026-11-20T12:15:00.000Z"
+  },
+  {
+    "id": "k-08",
+    "name": "ข้าวหอม วราภรณ์",
+    "wish": "ขอขมาพระแม่คงคา และขอพรให้ชีวิตพบแต่สิ่งดีงาม",
+    "style": "royal-gold",
+    "primaryColor": "#f59e0b",
+    "accentColor": "#db2777",
+    "votes": 48,
+    "position": { "x": 16.5, "z": -4.2 },
+    "createdAt": "2026-11-20T12:18:00.000Z"
+  },
+  {
+    "id": "k-09",
+    "name": "นัทตี้ สายรุ้ง",
+    "wish": "ขอให้โลกใบนี้สดใส น่ารักและใจดีกับทุกคน",
+    "style": "bread",
+    "primaryColor": "#a78bfa",
+    "accentColor": "#34d399",
+    "votes": 29,
+    "position": { "x": 22.0, "z": 2.4 },
+    "createdAt": "2026-11-20T12:20:00.000Z"
+  },
+  {
+    "id": "k-10",
+    "name": "ลุงวิทย์ ท่าเรือ",
+    "wish": "ขอให้ฝนฟ้าตกต้องตามฤดูกาล น้ำท่าอุดมสมบูรณ์",
+    "style": "coconut",
+    "primaryColor": "#78350f",
+    "accentColor": "#fde047",
+    "votes": 24,
+    "position": { "x": -11.5, "z": -8.2 },
+    "createdAt": "2026-11-20T12:22:00.000Z"
+  },
+  {
+    "id": "k-11",
+    "name": "อิงฟ้า ดารา",
+    "wish": "ขอให้กิจการร้านขนมไทยเติบโต ลูกค้าแน่นทุกวัน",
+    "style": "lotus",
+    "primaryColor": "#d946ef",
+    "accentColor": "#fde047",
+    "votes": 36,
+    "position": { "x": -26.5, "z": 2.0 },
+    "createdAt": "2026-11-20T12:25:00.000Z"
+  },
+  {
+    "id": "k-12",
+    "name": "กันต์ กิตติพงษ์",
+    "wish": "ขอให้เดินทางปลอดภัยทุกเส้นทางตลอดปี",
+    "style": "banana-leaf",
+    "primaryColor": "#22c55e",
+    "accentColor": "#ef4444",
+    "votes": 21,
+    "position": { "x": -6.0, "z": 9.2 },
+    "createdAt": "2026-11-20T12:27:00.000Z"
+  },
+  {
+    "id": "k-13",
+    "name": "แพรวา ณัฐชา",
+    "wish": "ขอให้ความฝันเป็นจริง และมีรอยยิ้มทุกเช้า",
+    "style": "bread",
+    "primaryColor": "#fb7185",
+    "accentColor": "#38bdf8",
+    "votes": 31,
+    "position": { "x": 1.8, "z": -6.8 },
+    "createdAt": "2026-11-20T12:30:00.000Z"
+  },
+  {
+    "id": "k-14",
+    "name": "บอส พีรพัฒน์",
+    "wish": "ขอให้ทีมงานสามัคคี ประสบความสำเร็จไปด้วยกัน",
+    "style": "coconut",
+    "primaryColor": "#b45309",
+    "accentColor": "#fef08a",
+    "votes": 17,
+    "position": { "x": 7.5, "z": -7.5 },
+    "createdAt": "2026-11-20T12:33:00.000Z"
+  },
+  {
+    "id": "k-15",
+    "name": "มะลิ สุขสันต์",
+    "wish": "ขอให้คุณพ่อคุณแม่สุขภาพแข็งแรง อายุยืนยาว",
+    "style": "lotus",
+    "primaryColor": "#f472b6",
+    "accentColor": "#ffffff",
+    "votes": 44,
+    "position": { "x": 14.0, "z": 8.8 },
+    "createdAt": "2026-11-20T12:36:00.000Z"
+  },
+  {
+    "id": "k-16",
+    "name": "วินเนอร์ 99",
+    "wish": "ขอให้โชคดี มีโชคลาภ ได้รางวัลใหญ่กับเขาบ้าง",
+    "style": "royal-gold",
+    "primaryColor": "#facc15",
+    "accentColor": "#dc2626",
+    "votes": 25,
+    "position": { "x": 20.5, "z": -8.2 },
+    "createdAt": "2026-11-20T12:40:00.000Z"
+  },
+  {
+    "id": "k-17",
+    "name": "น้ำหวาน พิสมัย",
+    "wish": "ขอให้ปีหน้าเป็นปีแห่งการเริ่มต้นใหม่ที่งดงาม",
+    "style": "banana-leaf",
+    "primaryColor": "#10b981",
+    "accentColor": "#f59e0b",
+    "votes": 34,
+    "position": { "x": 26.5, "z": -2.5 },
+    "createdAt": "2026-11-20T12:43:00.000Z"
+  },
+  {
+    "id": "k-18",
+    "name": "โอ๊ต ชัยวัฒน์",
+    "wish": "ขอให้สุขภาพจิตแจ่มใส นอนหลับฝันดีทุกคืน",
+    "style": "bread",
+    "primaryColor": "#2dd4bf",
+    "accentColor": "#fbbf24",
+    "votes": 18,
+    "position": { "x": 26.8, "z": 6.8 },
+    "createdAt": "2026-11-20T12:46:00.000Z"
+  },
+  {
+    "id": "k-19",
+    "name": "ดาวเรือง ริมโขง",
+    "wish": "ขอให้ประเพณีไทยงดงามสืบไปชั่วลูกชั่วหลาน",
+    "style": "royal-gold",
+    "primaryColor": "#eab308",
+    "accentColor": "#059669",
+    "votes": 40,
+    "position": { "x": -25.0, "z": -8.5 },
+    "createdAt": "2026-11-20T12:50:00.000Z"
+  },
+  {
+    "id": "k-20",
+    "name": "เอิร์ธ พงศกร",
+    "wish": "ขอให้สิ่งแวดล้อมและสายน้ำสะอาดสวยงามตลอดไป",
+    "style": "coconut",
+    "primaryColor": "#854d0e",
+    "accentColor": "#34d399",
+    "votes": 32,
+    "position": { "x": 4.8, "z": 8.2 },
+    "createdAt": "2026-11-20T12:55:00.000Z"
+  }
+]
